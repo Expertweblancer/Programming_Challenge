@@ -30,4 +30,4 @@ By default server will run on ```localhost:5001``` and frontend on
 Frontend will automatically change the port if 3000 is taken but to
 change the port of the backend please configure ```.env``` file in
 backend directory, and change the constant ```SERVER_PORT``` in
-frontend/challenge_upwork/App.js
+frontend/challenge/src/App.js
