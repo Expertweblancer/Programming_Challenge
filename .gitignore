@@ -1,0 +1,5 @@
+node_modules
+backend/node_modules
+frontend/challenge_upwork/node_modules
+.idea
+random.txt
